@@ -1,36 +1,27 @@
-FrozenUI-专注于移动web的UI框架 
-====
+# NgFrozen
 
-version 2.0.0
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
-## 概述
+## Development server
 
-FrozenUI 是一套基于移动端的UI库，轻量、精美、遵从手机 QQ 设计规范。
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-适用于使用手Q规范设计的Web页面，而针对非手Q规范的页面，可通过修改变量定制界面主题，并且可以按需选择需要的组件。
+## Code scaffolding
 
-使用iconfont展示图标，包含了按钮，列表，表单，提示，弹窗等常用组件，新增文本，布局，1px， rem，文字截断，占位，两端留白，两端对齐等解决方案，同时解决了移动端屏幕适配问题。
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## 手机预览
+## Build
 
-[http://111.231.236.41/vipstyle/qui/2.0.0/demo/html/index.html](http://111.231.236.41/vipstyle/qui/2.0.0/demo/html/index.html)
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-老版本: [http://frozenui.github.io/frozenui/demo/index.html](http://frozenui.github.io/frozenui/demo/index.html)
+## Running unit tests
 
-## 快速开始
-说明文档参考 [http://frozenui.github.io/getting-started](http://frozenui.github.io/getting-started)
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## 开发文档
-说明文档参考 [http://frozenui.github.io/components/components/](http://frozenui.github.io/components/components/)
+## Running end-to-end tests
 
-## 适配规则
-详细规则查看：
-https://github.com/frozenui/frozenui/wiki/%E5%B1%8F%E5%B9%95%E9%80%82%E9%85%8D
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## 版本维护
-原则是有问题提issue，代码修改提pr，由 javinzhong 合并以及内部发布
+## Further help
 
-版本修改记录查看: https://github.com/frozenui/frozenui/wiki/History-1.3.0
-
-## License
-The MIT License(http://opensource.org/licenses/MIT)
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
